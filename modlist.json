@@ -4,15 +4,13 @@
       "modname": "InputViewer",
       "description": "A simple mod that adds a clean input viewer during play.",
       "creator": "LiamM",
-      "imgurl": "none yet lol",
       "download_link": "none yet lol"
     },
     {
-      "modname": "InputViewer2",
-      "description": "A simple mod that adds a clean input viewer during play.",
+      "modname": "DebugTest Mod",
+      "description": "this does nothing useful lol",
       "creator": "LiamM",
-      "imgurl": "none yet lol",
-      "download_link": "what do you want -godot 4.3"
+      "download_link": "https://github.com/LiamMGit/BAModRepo/raw/refs/heads/main/ModPCKs/testmod.pck"
     }
   ]
 }
