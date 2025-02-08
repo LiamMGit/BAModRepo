@@ -1,1 +1,1 @@
-hello from liamm! launcher version detection is weird so when you see this text with an actual version, click "update launcher." for now, you're fine!
+there is no update as of now.
