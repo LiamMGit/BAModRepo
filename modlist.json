@@ -3,14 +3,20 @@
     {
       "modname": "InputViewer",
       "description": "A simple mod that adds a clean input viewer during play.",
-      "creator": "LiamM",
+      "creator": "LiamM/Lapis",
       "download_link": "https://github.com/LiamMGit/BAModRepo/raw/refs/heads/main/ModPCKs/InputDisplay.pck"
     },
     {
       "modname": "DebugTest Mod",
       "description": "this does nothing useful lol",
-      "creator": "LiamM",
+      "creator": "LiamM/Lapis",
       "download_link": "https://github.com/LiamMGit/BAModRepo/raw/refs/heads/main/ModPCKs/testmod.pck"
-    }
+    },
+    {
+      "modname": "Meowfy",
+      "description": "meow meow meow meow meow",
+      "creator": "annie, LiamM/Lapis",
+      "download_link": "https://github.com/LiamMGit/BAModRepo/raw/refs/heads/main/ModPCKs/meowfy.pck"
+    },
   ]
 }
